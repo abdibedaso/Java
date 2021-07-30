@@ -1,4 +1,4 @@
-# Spring
+# JAVA
 Java programs with absolute minimum fuss.
 
 
