@@ -2,6 +2,11 @@
 Java programs with absolute minimum fuss.
 
 
+## Modules
+
+1. Java-Scheduling
+2. Java-Functional-Programming
+
 ## Setup
 
 
